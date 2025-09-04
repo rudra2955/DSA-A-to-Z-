@@ -5,5 +5,7 @@ class Solution {
         if(f>s)return 2;
         else if(f<s)return 1;
         else return 0;
+
+       
     }
 }
